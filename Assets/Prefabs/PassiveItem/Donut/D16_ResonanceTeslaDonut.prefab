@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6823728674862243797
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5525179778174888892}
+  - component: {fileID: 5470542021752400214}
+  m_Layer: 0
+  m_Name: D16_ResonanceTeslaDonut
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5525179778174888892
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6823728674862243797}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5470542021752400214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6823728674862243797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf2a0736300ea644b025b0e877938b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 0
+  <itemName>k__BackingField: "\u5171\u632F\u30C6\u30B9\u30E9\u30C9\u30FC\u30CA\u30C4"
+  <itemType>k__BackingField: 3
+  <itemRank>k__BackingField: 2
+  <itemExplanation>k__BackingField: "\u30C9\u30FC\u30CA\u30C4\u3068\u4ED6\u306E\u3044\u305A\u308C\u304B\u306E\u30B9\u30A4\u30FC\u30C4\u306E\u51FA\u73FE\u6570\u304C\u540C\u3058\u306A\u3089\u3001\n\u305D\u308C\u305E\u308C\u306E\u5358\u4FA1+200\u3001\u30B3\u30F3\u30DC\u500D\u7387+10%"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: 71b7efb9460278f4ca3c7e67286a6476, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000000000000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000

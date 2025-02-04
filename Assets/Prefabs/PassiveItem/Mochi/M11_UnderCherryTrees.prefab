@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8366521840320539026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5824719321656553579}
+  - component: {fileID: -6760173934698159393}
+  m_Layer: 0
+  m_Name: M11_UnderCherryTrees
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5824719321656553579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8366521840320539026}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-6760173934698159393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8366521840320539026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2631d04fb55b54849bdc724c5eeed02f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 0
+  <itemName>k__BackingField: "\u54B2\u304D\u8A87\u308B\u685C\u306E\u6728\u306E\u4E0B"
+  <itemType>k__BackingField: 4
+  <itemRank>k__BackingField: 2
+  <itemExplanation>k__BackingField: "\u6625\u5B63\u306B\u685C\u3082\u3061\u4EE5\u5916\u306E\u30B9\u30A4\u30FC\u30C4\u306E\u5358\u4FA1-40\n\u685C\u3082\u3061\u306E\u5358\u4FA1+400,
+    \u30DC\u30FC\u30CA\u30B9\u500D\u7387+40%,\n\u30DC\u30FC\u30CA\u30B9\u58F2\u308A\u4E0A\u3052+4000"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: b7aaed26ee9b6be4580b1758cb351257, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000000000000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000

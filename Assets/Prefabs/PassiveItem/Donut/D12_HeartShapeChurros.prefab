@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2764903809284970241
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5215895084693853188}
+  - component: {fileID: 4050668968977215416}
+  m_Layer: 0
+  m_Name: D12_HeartShapeChurros
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5215895084693853188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2764903809284970241}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4050668968977215416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2764903809284970241}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6352081f5113c19449ff8d76e08eb7a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 0
+  <itemName>k__BackingField: "\u30CF\u30FC\u30C8\u30B7\u30A7\u30A4\u30D7\u30C1\u30E5\u30ED\u30B9"
+  <itemType>k__BackingField: 3
+  <itemRank>k__BackingField: 2
+  <itemExplanation>k__BackingField: "\u30C9\u30FC\u30CA\u30C4\u3092\u9023\u7D9A\u3067\u58F2\u3063\u305F\u6642\u3001\u30C9\u30FC\u30CA\u30C4\u306E\u30DC\u30FC\u30CA\u30B9\u500D\u7387+50%"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: 4d1eae5cb25b6774fbd8c822c5563602, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000000000000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000

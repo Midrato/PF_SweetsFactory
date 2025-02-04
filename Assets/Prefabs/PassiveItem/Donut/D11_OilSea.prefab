@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7433078716578146837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3868152936642063732}
+  - component: {fileID: 4960003488295502744}
+  m_Layer: 0
+  m_Name: D11_OilSea
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3868152936642063732
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7433078716578146837}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4960003488295502744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7433078716578146837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6e29487cf48c94da071a8b802673e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 70
+  <itemName>k__BackingField: "\u6CB9\u306E\u6D77"
+  <itemType>k__BackingField: 3
+  <itemRank>k__BackingField: 2
+  <itemExplanation>k__BackingField: "\u30C9\u30FC\u30CA\u30C4\u4EE5\u5916\u306E\u30B9\u30A4\u30FC\u30C4\u3092\u58F2\u3063\u305F\u969B\u30DC\u30FC\u30CA\u30B9\u58F2\u308A\u4E0A\u3052-500\n\u30C9\u30FC\u30CA\u30C4\u306E\u5358\u4FA1+400"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: b14c7d6924baa204292cb5a0ffabf107, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000009001000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000

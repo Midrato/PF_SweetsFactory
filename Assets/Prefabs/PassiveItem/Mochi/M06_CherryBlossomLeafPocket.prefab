@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2652155276098355449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8525741283250762373}
+  - component: {fileID: 224940332186791736}
+  m_Layer: 0
+  m_Name: M06_CherryBlossomLeafPocket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8525741283250762373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2652155276098355449}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &224940332186791736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2652155276098355449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd69275a4773c7840b04f7f054ed6767, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 0
+  <itemName>k__BackingField: "\u685C\u8449\u30DD\u30B1\u30C3\u30C8"
+  <itemType>k__BackingField: 4
+  <itemRank>k__BackingField: 1
+  <itemExplanation>k__BackingField: "\u5168\u30B9\u30A4\u30FC\u30C4\u306E\u51FA\u73FE\u6570\u306E\u5408\u8A08\u304C150\u4EE5\u4E0A\u3067\u767A\u52D5\n\u685C\u3082\u3061\u306E\u30B3\u30F3\u30DC\u500D\u7387+15%"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: 4cc769acc94a6ce47ac54bbc0cad807f, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000000000000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000

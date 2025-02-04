@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3798730618897470180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 386981914961893024}
+  - component: {fileID: 8718809310741837550}
+  m_Layer: 0
+  m_Name: D17_DonutHole
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &386981914961893024
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3798730618897470180}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8718809310741837550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3798730618897470180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22bfe2419d1201941a2434a27e398cfb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 0
+  <itemName>k__BackingField: "\u30C9\u30FC\u30CA\u30C4\u30DB\u30FC\u30EB"
+  <itemType>k__BackingField: 3
+  <itemRank>k__BackingField: 3
+  <itemExplanation>k__BackingField: "\u6B8B\u308A\u64CD\u4F5C\u56DE\u6570\u304C4\u306E\u500D\u6570\u306E\u6642\u306B\u30C9\u30FC\u30CA\u30C4\u3092\u64CD\u4F5C\u6642\u3001\r\n1\u3064\u98DB\u3070\u3057\u306E\u4F4D\u7F6E\u306B\u9023\u9396\u53EF\u80FD\u3068\u306A\u308A\u3001\u3055\u3089\u306B\u30B3\u30F3\u30DC\u500D\u7387+10%\r\n\u30A2\u30A4\u30C6\u30E0\"\u30E1\u30D3\u30A6\u30B9\u30B0\u30DF\"\u304C\u4F7F\u7528\u4E0D\u80FD\u306B\u306A\u308B"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: 785750aa943fcf742b8abfad7e529e75, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000000000000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000

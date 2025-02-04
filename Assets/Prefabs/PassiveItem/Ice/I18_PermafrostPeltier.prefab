@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2350379111148499668
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8907828664532610338}
+  - component: {fileID: -6846060249177622226}
+  m_Layer: 0
+  m_Name: I18_PermafrostPeltier
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8907828664532610338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2350379111148499668}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-6846060249177622226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2350379111148499668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb775545802c06c4c8b9a6a77c284c67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 0
+  <itemName>k__BackingField: "\u6C38\u4E45\u51CD\u571F\u30DA\u30EB\u30C1\u30A7"
+  <itemType>k__BackingField: 2
+  <itemRank>k__BackingField: 3
+  <itemExplanation>k__BackingField: "\u30A2\u30A4\u30B9\u4EE5\u5916\u306E\u30B9\u30A4\u30FC\u30C4\u306E\u5358\u4FA1-100\u3001\u51FA\u73FE\u6570-5\n\u30A2\u30A4\u30B9\u306E\u5358\u4FA1+800\n\u30A2\u30A4\u30B9\u3092\u58F2\u3063\u305F\u6642\u30DC\u30FC\u30CA\u30B9\u500D\u7387+50%"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: 18afd1fb84ee4ab4bbcb2e54d80b4c54, type: 3}
+  <priceDiff>k__BackingField: 9cffffff9cffffff200300009cffffff9cffffff
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: fbfffffffbffffff00000000fbfffffffbffffff

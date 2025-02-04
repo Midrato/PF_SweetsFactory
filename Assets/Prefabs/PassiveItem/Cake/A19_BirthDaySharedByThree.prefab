@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8798054403659586051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 276095755260070134}
+  - component: {fileID: -8936607451866621543}
+  m_Layer: 0
+  m_Name: A19_BirthDaySharedByThree
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &276095755260070134
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8798054403659586051}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-8936607451866621543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8798054403659586051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c41185ccda528f4dbfbef58cad2604c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 18
+  <itemName>k__BackingField: "3\u4EBA\u3067\u5206\u3051\u308B\u30D0\u30FC\u30B9\u30C7\u30FC"
+  <itemType>k__BackingField: 0
+  <itemRank>k__BackingField: 3
+  <itemExplanation>k__BackingField: "\u6B8B\u308A\u624B\u6570\u304C3\u306E\u500D\u6570\u306E\u6642\u306B\u30B1\u30FC\u30AD\u30923\u500B\u58F2\u308B\u3068\u3001\n\u30DC\u30FC\u30CA\u30B9\u58F2\u308A\u4E0A\u3052+(13000\xD7\u73FE\u5728\u306E\u5E74)(10\u5E74\u76EE\u3067\u6700\u5927\u5024)"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: 1c18131a6d9adda4aa73ad4393a2acec, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000000000000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000

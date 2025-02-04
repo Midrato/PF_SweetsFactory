@@ -71,3 +71,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# 個人情報やクラウド接続情報を含むファイルを除外
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ServicesSettings.asset
+ProjectSettings/EditorSettings.asset

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7207266387771045768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5749173462049508588}
+  - component: {fileID: 1531778912296902724}
+  m_Layer: 0
+  m_Name: I13_AntarcticCold
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5749173462049508588
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7207266387771045768}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1531778912296902724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7207266387771045768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c73fff88c4f4074fbfc021b3cfcb80e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <itemName>k__BackingField: "\u5357\u6975\u306E\u51B7\u6C17"
+  <itemType>k__BackingField: 2
+  <itemRank>k__BackingField: 2
+  <itemExplanation>k__BackingField: "\u30A2\u30A4\u30B9\u306E\u51FA\u73FE\u6570+15\n\u30A2\u30A4\u30B9\u306E\u51FA\u73FE\u6570\u304C20\u500B\u304B\u308910\u500B\u5897\u3048\u308B\u6BCE\u306B\u3001\n\u30A2\u30A4\u30B9\u306E\u30B3\u30F3\u30DC\u500D\u7387+5%(\u6700\u592725%)\u3001\n\u305D\u306E\u4ED6\u306E\u30B9\u30A4\u30FC\u30C4\u306E\u30B3\u30F3\u30DC\u500D\u7387-2%(\u6700\u5C0F-10%)"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: 7420e7e4c4996804d81234682b058a6a, type: 3}
+  <priceDiff>k__BackingField: 0000000000000000000000000000000000000000
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 00000000000000000f0000000000000000000000

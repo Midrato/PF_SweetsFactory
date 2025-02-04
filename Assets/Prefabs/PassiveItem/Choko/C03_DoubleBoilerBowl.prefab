@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2969195746736247479
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 173721940753598072}
+  - component: {fileID: -7331151115648667943}
+  m_Layer: 0
+  m_Name: C03_DoubleBoilerBowl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &173721940753598072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2969195746736247479}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7331151115648667943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2969195746736247479}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f557fa66aab1fc4b8d5fd44713e6984, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemID: 0
+  <itemName>k__BackingField: "\u4E8C\u91CD\u6E6F\u305B\u3093\u30DC\u30A6\u30EB"
+  <itemType>k__BackingField: 1
+  <itemRank>k__BackingField: 1
+  <itemExplanation>k__BackingField: "\u30C1\u30E7\u30B3\u4EE5\u5916\u306E\u30B9\u30A4\u30FC\u30C4\u306E\u5358\u4FA1-30\u30A2\u30DE\n\u30C1\u30E7\u30B3\u306E\u5358\u4FA1+200\u30A2\u30DE"
+  <itemSprite>k__BackingField: {fileID: 21300000, guid: da37f3945fb4d6145aaadf9c57d83537, type: 3}
+  <priceDiff>k__BackingField: e2ffffffc8000000e2ffffffe2ffffffe2ffffff
+  <magnificationDiff>k__BackingField:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  <spawnRatesDiff>k__BackingField: 0000000000000000000000000000000000000000
